@@ -1,5 +1,10 @@
 # 音视频知识
 
+<p ##align="center">
+  <a href="./README_cn.md">简体中文 |
+  <a href="./README.md">English</a>
+</p>
+
 ## MPEG-TS
 MPEG-TS 是一个音频和视频的传输协议，它被设计用来传输音频和视频数据。MPEG-TS 由多个 PES 包组成，每个 PES 包包含一个音频或视频帧。
 MPEG-TS 每个包固定 188 字节，每个包由 TS 头和 TS 负载数据组成。
@@ -26,6 +31,8 @@ PMT 包是节目映射表，它包含了所有的节目和对应的 PID，table_
 
 
 
-# README.md
-- [English](README.md)
-- [简体中文](README_cn.md)
+
+<p ##align="center">
+  <a href="./README.md">English |
+  <a href="./README_cn.md">简体中文</a>
+</p>
