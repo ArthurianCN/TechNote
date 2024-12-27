@@ -24,3 +24,8 @@ PMT 包是节目映射表，它包含了所有的节目和对应的 PID，table_
 2. 根据 PMT 包的 pid，找到对应的 PMT 包，从中找到所有的 PES 包的 pid，其中 stream_type 是 0x1B 的是H264，H265 的是 0x24。
 3. 根据 PES 包的 pid，找到对应的 PES 包，从中解析出音频或视频帧。
 
+
+
+# README.md
+- [English](README.md)
+- [简体中文](README_cn.md)
