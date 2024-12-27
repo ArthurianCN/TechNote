@@ -1,8 +1,8 @@
 # 代码版本管理工具
 
 <p ##align="center">
-  <a href="./README.md">简体中文 |
-  <a href="./README_cn.md">English </a>
+  <a href="./README_cn.md">简体中文 |
+  <a href="./README.md">English </a>
 </p>
 
 ## git
